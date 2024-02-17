@@ -47,7 +47,7 @@
             BoruÜst.Image = (Image)resources.GetObject("BoruÜst.Image");
             BoruÜst.Location = new Point(447, -2);
             BoruÜst.Name = "BoruÜst";
-            BoruÜst.Size = new Size(85, 95);
+            BoruÜst.Size = new Size(85, 77);
             BoruÜst.SizeMode = PictureBoxSizeMode.StretchImage;
             BoruÜst.TabIndex = 0;
             BoruÜst.TabStop = false;
@@ -55,7 +55,7 @@
             // FlaffyBird
             // 
             FlaffyBird.Image = (Image)resources.GetObject("FlaffyBird.Image");
-            FlaffyBird.Location = new Point(12, 111);
+            FlaffyBird.Location = new Point(1, 73);
             FlaffyBird.Name = "FlaffyBird";
             FlaffyBird.Size = new Size(79, 60);
             FlaffyBird.TabIndex = 1;
@@ -64,9 +64,9 @@
             // BoruAlt
             // 
             BoruAlt.Image = (Image)resources.GetObject("BoruAlt.Image");
-            BoruAlt.Location = new Point(444, 261);
+            BoruAlt.Location = new Point(444, 255);
             BoruAlt.Name = "BoruAlt";
-            BoruAlt.Size = new Size(88, 88);
+            BoruAlt.Size = new Size(88, 94);
             BoruAlt.SizeMode = PictureBoxSizeMode.StretchImage;
             BoruAlt.TabIndex = 2;
             BoruAlt.TabStop = false;

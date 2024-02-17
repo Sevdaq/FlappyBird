@@ -39,7 +39,50 @@ namespace FlappyBird
 
 
             }
-            if(FlaffyBird.Top <= 25)
+            if (score > 10)
+            {
+                boruhizi = 20;
+
+
+            }
+            if (score > 15)
+            {
+                boruhizi = 25 ;
+
+
+
+            }
+            if (score > 20)
+            {
+                boruhizi = 30;
+
+
+
+            }
+            if (score > 25)
+            {
+                boruhizi = 35;
+
+
+
+            }
+            if (score > 30)
+            {
+                boruhizi = 40;
+
+            }
+            if (score > 35)
+            {
+                boruhizi = 45;
+
+            }
+            if (score > 40)
+            {
+                boruhizi = 50;  
+
+            }
+
+            if (FlaffyBird.Top <= 25)
             {
                 endGame();
 
